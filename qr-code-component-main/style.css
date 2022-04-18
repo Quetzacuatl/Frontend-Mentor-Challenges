@@ -1,0 +1,48 @@
+
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Cambria', sans-serif;
+}
+
+
+p {
+  color:#789395;
+  margin: 5% 15% 10% 15%;
+  text-align:justify;
+  word-break:keep-all;
+  font-size:0.8vw;
+}
+
+h1 {
+  font-size:1vw;
+  margin:0 15%  0 15%;
+  text-align:justify;
+  word-break:keep-all;
+  padding-bottom:10px;
+}
+
+.container {
+  position:relative;
+  width:100vw;
+  height:100vh;
+  background-color: #B7CADB ;
+  margin:auto;
+}
+
+
+.card {
+  position:absolute;
+  margin:10% 40% auto 40%;
+  width:20%;
+  background-color: white;
+  border-radius:20px;
+}
+
+.qr {
+  position:relative;
+  border-radius: 20px;
+  margin:5%;
+  max-width: 90%;
+  max-height: 90%;
+}
